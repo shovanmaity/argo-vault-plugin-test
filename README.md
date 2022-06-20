@@ -1,0 +1,1 @@
+# argo-vault-plugin-test
